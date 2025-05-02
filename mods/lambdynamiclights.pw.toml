@@ -1,0 +1,13 @@
+name = "LambDynamicLights"
+filename = "lambdynamiclights-4.1.2+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/XaLo388x/lambdynamiclights-4.1.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7a88c2a927539faf804dd5dbfb7c6fadd9dd63d4"
+
+[update]
+[update.modrinth]
+mod-id = "yBW8D80W"
+version = "XaLo388x"
