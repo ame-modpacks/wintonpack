@@ -1,0 +1,13 @@
+name = "Polymorphic Tom's Simple Storag"
+filename = "polymorphic-tom-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lgaejLU2/versions/2hdv6yMQ/polymorphic-tom-1.0.3.jar"
+hash-format = "sha1"
+hash = "ada432aa98ad5812353d53f147234e4314cd9a79"
+
+[update]
+[update.modrinth]
+mod-id = "lgaejLU2"
+version = "2hdv6yMQ"
