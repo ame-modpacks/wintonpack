@@ -508,11 +508,6 @@ hash = "59698093db93d17722994ff8f90ef805563597f1533575218962cd05719c6ac7"
 metafile = true
 
 [[files]]
-file = "mods/polymorphic-travelers-backpack.pw.toml"
-hash = "24807f93a63057f3e032b3732775289a82b00ad0fabb46c8ae49c6d915697531"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "564e8d3f7d32b162104bdfe8063dadf1cbacdce55d90705e31dce4c1eb3d220b"
 metafile = true
