@@ -5,6 +5,94 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/openloader/data/VanillaTweaks_c826375_MC1.21-1.21.5.zip"
+hash = "4343261db1161da941a90ee7697129edafad93a706fc75e21a0fafb80aa4f53d"
+
+[[files]]
+file = "config/openloader/data/afk display v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "f00957a45f8c741d514bc0ccfc6d324df3e7181ae6bde9d6ff7328008a23ca2d"
+
+[[files]]
+file = "config/openloader/data/armor statues v2.8.12 (MC 1.20-1.20.6).zip"
+hash = "15983b7891c2c4117fad076743bb05b460c6c8407e3b78b438eb9a728431c7e0"
+
+[[files]]
+file = "config/openloader/data/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip"
+hash = "19fa12aa309f1e50a08d441fb4e0c0204b500fcb0eab51233531e69ff599f575"
+
+[[files]]
+file = "config/openloader/data/classic fishing loot v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b7bd3f8f8d55d687390c983e06bc8023bf6298e345667f0790589c87be62c60f"
+
+[[files]]
+file = "config/openloader/data/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
+hash = "3d051c91543d4cf46276531d1a5ed787bf40b5bb329ac7dedf7425b4fcb797ec"
+
+[[files]]
+file = "config/openloader/data/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip"
+hash = "9892d5df79761f9394ddacbdc2885e485f898fdfa8dbfebea4fb8726aa0a089d"
+
+[[files]]
+file = "config/openloader/data/dragon drops v1.3.7 (MC 1.20-1.20.6).zip"
+hash = "d5800bd4130b4643ef82585780d437136053d138c1387ba93d3e423fc366ca0e"
+
+[[files]]
+file = "config/openloader/data/fast leaf decay v2.0.10 (MC 1.20-1.20.6).zip"
+hash = "7ab5bea68e77c2f2e83a5f3889438fffe5c2645ee05647c471c7845d3ee49242"
+
+[[files]]
+file = "config/openloader/data/kill empty boats v1.1.8 (MC 1.20-1.20.6).zip"
+hash = "8b646469389b0a7b75d4ba20b027d1c12360646ff3b3419485ff71ea17544d3c"
+
+[[files]]
+file = "config/openloader/data/nether portal coords v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "6563fcbdcdf7fbe0fc13044773af76d87f9e909e2beea0d9a94513d90bec8a6d"
+
+[[files]]
+file = "config/openloader/data/pillager tools v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "70fb22c452b8cbfba0a0f308f323d223fbadd3db39c7cd0231efee3c20372624"
+
+[[files]]
+file = "config/openloader/data/player head drops v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "56cc5036b555c5629ccfbd112323ea3c75453f951c322f762fb57b817557b3b6"
+
+[[files]]
+file = "config/openloader/data/real time clock v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "89c69ee922e9697b116eaf8a575403cc0f401bf7694fc2917eba22c7c562c5e2"
+
+[[files]]
+file = "config/openloader/data/silence mobs v1.2.2 (MC 1.20-1.20.6).zip"
+hash = "4914621f89e5259e452d108ea7bc27428d80ecd89e03b5441aa1210369e4cf35"
+
+[[files]]
+file = "config/openloader/data/spectator conduit power v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "f45e9eae4e9954ea4b0e191cc7222b82519bbc775b8850826aee6ca07667d5d6"
+
+[[files]]
+file = "config/openloader/data/spectator night vision v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "02400f1c3037077ba2f84bec5260c55b28afa3b5ed100e5a55e32913869939bb"
+
+[[files]]
+file = "config/openloader/data/timber v2.1.9 (MC 1.20-1.20.6).zip"
+hash = "58586d7d5c388be4198898eda0d5efd28c8f54c0cf69ddbec94be73016c17950"
+
+[[files]]
+file = "config/openloader/data/track raw statistics v1.7.3 (MC 1.20-1.20.6).zip"
+hash = "3437b77181ff05f077887b0adc895198e9c2b0e9756604c8e5635421c036a401"
+
+[[files]]
+file = "config/openloader/data/track statistics v1.1.9 (MC 1.20-1.20.6).zip"
+hash = "ecfc1c25da71e0a9d259a77f42799e266050aa4da4aa83486cb87e99d5d7fae3"
+
+[[files]]
+file = "config/openloader/data/villager workstation highlights v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "7a10ecab0c3682a1fcbd7b9ec9150f8052a325c4c4c559d8407977714d9a89ce"
+
+[[files]]
+file = "config/openloader/data/xp management v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b98e42f55a906a17629c2ff21cd63490d5d5daf108d21746dec0991bb089b688"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
 metafile = true
@@ -62,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
@@ -575,6 +668,66 @@ hash = "e74c7b29a9776fa6d00a39ee71e18445c9b273570351a4b891a35b277feaca30"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-nether.pw.toml"
-hash = "8e7f8cbff84a57f5a762ea3aea81b12f7aab5f103ce275e67b68278feeb06a10"
+file = "resourcepacks/CleanGlass.zip"
+hash = "e1b54f2f1b6c9bed78b6cb106b94b58b6ae680168863599bbd20646ccaf3f4d9"
+
+[[files]]
+file = "resourcepacks/ClearWater.zip"
+hash = "74c9798ffdd6d9070ffadb1ab8b71b0cfe3a36bb12fc85d9bdc1c09b490c1f2e"
+
+[[files]]
+file = "resourcepacks/DiminishingTools.zip"
+hash = "c4a9d5b5a771f515de7ea07358cb16c65461a8df901d0ac011ea6e2e6552dc2c"
+
+[[files]]
+file = "resourcepacks/Fullbright.zip"
+hash = "9483f7121a3eeb7201bfbdea425ac9050809ce887b69497773b49dc71c7f8ea8"
+
+[[files]]
+file = "resourcepacks/GreenGrass.zip"
+hash = "a0b2423974f639e06adee8415bf0a199a2081e4343cdc3e70a8334c7febad5c6"
+
+[[files]]
+file = "resourcepacks/GrowthMarker.zip"
+hash = "89c38172adc440c131cffabe6b0929dd5e6cf9bcb3bf7e21810ae5b9c7b6e9ff"
+
+[[files]]
+file = "resourcepacks/MobSpawnIndicator.zip"
+hash = "ab40813c9dcda45aefddc6d5d87fada91ac507a6f3be6aae221773bb7ecfc723"
+
+[[files]]
+file = "resourcepacks/NoCaveSounds.zip"
+hash = "5b4e23826df39ebfbc39cb83ee4d3bf2570f8d9325e4bf87c940d003e5bfc420"
+
+[[files]]
+file = "resourcepacks/NoPumpkin.zip"
+hash = "ebc837884419be8e37ed1effdc773e8b8b99c6378b9078e3fc96568f2a013bc7"
+
+[[files]]
+file = "resourcepacks/OreBorders.zip"
+hash = "a3b5ab578d0eb480233d9196a358d571e1965209c91e7434ea96dc6987f1aa59"
+
+[[files]]
+file = "resourcepacks/RedstoneLevelDisplay.zip"
+hash = "3b797ac05bf10fc6a9b603426e77682471ddaa16ee00835a4033f7a5d7276ecb"
+
+[[files]]
+file = "resourcepacks/ShortSword.zip"
+hash = "167c2b843d567e5260a2006bbe4d63df18dd7c96d06a6afbd06c6c9b174c2805"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "9687f6d53d82df772cee51b1dba41d9ea98b0e77ced7a01bcf2ddd818ac186f3"
+
+[[files]]
+file = "resourcepacks/WarpedBackground.zip"
+hash = "eaefabc23e7d59fec9fe075def3e389cc868ab58644e0381c3c298df3dfd5fe5"
+
+[[files]]
+file = "resourcepacks/what.zip"
+hash = "fa786f9610b865da46c0050157b9512a7ecb455bfafc1461d82f0736054e36e5"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "45e192e6437641dae538fffeefb798fb7086bf32f9d263f7ba0a31323e80b2e4"
 metafile = true
