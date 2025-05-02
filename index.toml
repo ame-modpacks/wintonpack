@@ -478,11 +478,6 @@ hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "ec277331d582b3e88b3f6bed3a77f4f526689680507d718f76a1d0fd03ffcf54"
 metafile = true
