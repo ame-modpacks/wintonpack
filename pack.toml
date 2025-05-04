@@ -1,12 +1,12 @@
 name = "Wintonpack"
 author = "GabrielBoscoDeolindo"
-version = "2.2.0"
+version = "2.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4dd79d910c30e44da2f8356b20dcb5ee115e5d78e5fabd068441878b7f570b38"
+hash = "4b84204359f083c8505d09efb85656ec8b8060ecdb753264e7ff534de0506e46"
 
 [versions]
 fabric = "0.16.14"

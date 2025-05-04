@@ -363,6 +363,11 @@ hash = "822b284f908f06e6de154f0c81276f69c9d5d13d5f8c7d0cc4c713d538b48391"
 metafile = true
 
 [[files]]
+file = "mods/haybale-ported.pw.toml"
+hash = "dd4170792d711d77ecacd4cd59d9ba7136cb7a97e6bf16bc19eb779dc7e85f0e"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -583,6 +588,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/straw-golem-rebaled-ported.pw.toml"
+hash = "79dea6fa9a840f8e5aac47f53296803e44263d8700e7c6489cd99cbc33ea64c9"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a76e0eeae97561681a46739c2bbd79b257bdbc0fdbe730856f17c087ac0be7b9"
 metafile = true
@@ -740,4 +750,9 @@ hash = "fa786f9610b865da46c0050157b9512a7ecb455bfafc1461d82f0736054e36e5"
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "45e192e6437641dae538fffeefb798fb7086bf32f9d263f7ba0a31323e80b2e4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
 metafile = true
