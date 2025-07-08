@@ -1,13 +1,13 @@
 name = "Straw Golem Rebaled: Ported"
-filename = "Strawgolem-fabric-1.20.1-3.1.0.jar"
+filename = "Strawgolem-fabric-1.20.1-3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lv51AjnX/versions/wIch69BU/Strawgolem-fabric-1.20.1-3.1.0.jar"
+url = "https://cdn.modrinth.com/data/Lv51AjnX/versions/5SJsC2QX/Strawgolem-fabric-1.20.1-3.1.1.jar"
 hash-format = "sha1"
-hash = "2ab94dfd03a62e578dc230842a8f3198c59b9e2e"
+hash = "d5ad5f4e337c008bc73bdf20e2861a082e8098a1"
 
 [update]
 [update.modrinth]
 mod-id = "Lv51AjnX"
-version = "wIch69BU"
+version = "5SJsC2QX"
